@@ -1,2 +1,2 @@
 # yeditepe.dersler
-python kodlama 
+Volkan kodlama deneme
