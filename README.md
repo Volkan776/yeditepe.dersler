@@ -1,0 +1,2 @@
+# yeditepe.dersler
+python kodlama 
